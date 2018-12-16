@@ -2,4 +2,4 @@
 Module Doc string
 '''
 
-print "Hello World"
+print("Hello World")
