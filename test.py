@@ -2,4 +2,7 @@
 Module Doc string
 '''
 
-print "Hello World"
+def test():
+    print "This should having linting errors"
+
+print("Hello World")
